@@ -4,6 +4,6 @@
 
 <P>
   <CENTER>
-    <IMG SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Media-and-Image%20Assets/reconstructing-cybernetics.png">
+    <IMG height = 50% width = 50% SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Media-and-Image%20Assets/reconstructing-cybernetics.png">
       </CENTER>
     </P>
