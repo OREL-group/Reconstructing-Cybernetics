@@ -1,2 +1,3 @@
-# Reconstructing-Cybernetics
-Materials for the "Reconstructing Cybernetics" project
+# Reconstructing Cybernetics
+
+[Legacy Repository](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems)
