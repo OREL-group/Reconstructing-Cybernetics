@@ -1,6 +1,6 @@
 # Reconstructing Cybernetics
 
-Legacy Repository [Epistemological Directory](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems)
+Legacy Repository [Epistemological Directory](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems) on _Cybernetics and Systems_.
 
 __Lab-related publications__  
 [Modeling Cellular Information Processing Using a Dynamical Approximation of Cellular mRNA](https://www.biorxiv.org/content/10.1101/006775v1). _bioRxiv_, doi:10.1101/006775.
