@@ -9,6 +9,8 @@ __Lab-related publications__
 
 [The Foundations of Control and Cognition: The Every Good Regulator Theorem](https://www.researchgate.net/publication/308935327_The_Foundations_of_Control_and_Cognition_The_Every_Good_Regulator_Theorem). _ResearchGate_, doi:10.6084/M9.FIGSHARE.1559095.
 
+[Every Good Regulator Provides a World Model for Intelligent Systems](https://www.researchgate.net/publication/381547888_Every_Good_Regulator_Provides_a_World_Model_for_Intelligent_Systems). _ResearchGate_.
+
 <p align = center>
     <IMG height = 50% width = 50% SRC="https://github.com/OREL-group/Saturday-Morning-NeuroSim/blob/main/Media-and-Image%20Assets/reconstructing-cybernetics.png">
 </p>
