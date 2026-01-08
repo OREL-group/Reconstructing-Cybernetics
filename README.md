@@ -28,4 +28,12 @@ Legacy Repository [Epistemological Directory](https://github.com/Orthogonal-Rese
 ### Early version of "A Good Regulator May Provide a World Model for Intelligent Systems"
 [1](https://youtu.be/fycXRzWgT1c), [2](https://youtu.be/bbg3STcxjgs).    
 
+### Active Inference Institute
+[Purposefully Nonstandard Cybernetics: an alternative to purpose-driven control](https://youtu.be/ZLY5tix7-OA)     
 
+### SMN Features
+[Proto-complexity and the Cybernetics Conceptual Landscape](https://youtu.be/gWKBkkDczwQ)     
+
+[Cybernetics, Proto-Complexity Theory, and Intellectual Flatlands](https://youtu.be/b-7fdzPFsSA)     
+
+[Braitenberg Vehicles: biocybernetic models using memristive circuits](https://youtu.be/8rQshy3382A)
