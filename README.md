@@ -18,7 +18,7 @@ Legacy Repository [Epistemological Directory](https://github.com/Orthogonal-Rese
 [Modeling Cellular Information Processing Using a Dynamical Approximation of Cellular mRNA](https://www.biorxiv.org/content/10.1101/006775v1). _bioRxiv_, doi:10.1101/006775.
 
 ## Meeting Sessions (YouTube)     
-#### Human Use of Human Beings (Norbert Weiner)
+#### Human Use of Human Beings (Norbert Wiener)
 [1](https://youtu.be/R004XtxKe8Y), [2](https://youtu.be/Lpf3iWHdVKo), [3](https://youtu.be/7Nuua-BfsOo),
 [4](https://youtu.be/H9X420hhL8I), [5](https://youtu.be/RcdSOA7H1ik), [6](https://youtu.be/sRG3vBf7sFQ), [7](https://youtu.be/alpbp86eEEM), [8](https://youtu.be/NiDE4PLj1SQ), [9](https://youtu.be/uJsHcwW604Q), [10](https://youtu.be/hCxdxIXwNtI), [11](https://youtu.be/la-sqRlBrSQ), [12](https://youtu.be/VPQPxOn709Y), [13](https://youtu.be/iH4zV6UJpfk).         
 
