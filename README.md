@@ -37,3 +37,7 @@ Legacy Repository [Epistemological Directory](https://github.com/Orthogonal-Rese
 [Cybernetics, Proto-Complexity Theory, and Intellectual Flatlands](https://youtu.be/b-7fdzPFsSA)     
 
 [Braitenberg Vehicles: biocybernetic models using memristive circuits](https://youtu.be/8rQshy3382A)
+
+[Bradly Alicea discusses Jesse Parent's post on Rosenbleuth et.al](https://youtu.be/eUoJZ_0dUBA)
+
+[Norbert Wiener's legacy in AI and Synchronized Oscillators](https://youtu.be/h3CtacXuZqM)
