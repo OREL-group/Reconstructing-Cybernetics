@@ -2,7 +2,7 @@ __Complied by Claude Sonnet 4.5__
 
 __I. How would W.R. Ashby define variety?__   
 W.R. Ashby would define variety as the number of distinguishable states or elements in a set. In his cybernetic framework, variety is essentially a measure of complexity or the number of possible states a system can exhibit.
-More specifically, Ashby used variety as a quantitative concept - if a system or set has n distinguishable elements, it has a variety of n. For example, a traffic light with three states (red, yellow, green) has a variety of 3.
+More specifically, Ashby used variety as a quantitative concept - if a system or set has _n_ distinguishable elements, it has a variety of _n_. For example, a traffic light with three states (red, yellow, green) has a variety of 3.
 This concept became central to his famous "Law of Requisite Variety," which states that only variety can destroy variety. In practical terms, this means that for a regulator to successfully control a system, the regulator must have at least as much variety (complexity, possible responses) as the system it's trying to regulate. A controller with insufficient variety cannot adequately manage a more complex system.
 Ashby treated variety as a fundamental building block for understanding regulation, control, and adaptation in cybernetic systems - whether biological, mechanical, or social.   
 
