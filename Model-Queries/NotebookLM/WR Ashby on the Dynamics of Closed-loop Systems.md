@@ -3,7 +3,7 @@
 W.R. Ashby <sup>1</sup> would describe closed-loop feedback primarily as a state of effective two-way interaction between components within a system. He defines feedback as being present if we can find two variables that are each dependent on the other <sup>2</sup>. This interaction forms a circuit where the behaviour of one part is influenced by the other, and this influence eventually returns to the first part <sup>2</sup>.    
 
 __Ashby identifies several key characteristics and insights regarding closed-loop feedback:__     
-Feedback as a "Closing Link": Drawing on the theory of servomechanisms, he notes that a human operator can be considered part of a control system, acting as the "closing link" that takes account of the difference between actual output and desired output to alter the input <sup>3</sup>.     
+Feedback as a "Closing Link": Drawing on the theory of servomechanisms, he notes that a human operator can be considered part of a control system, acting as the "closing link" <sup>3</sup> that takes account of the difference between actual output and desired output to alter the input.     
 
 __The Necessity for Oscillation:__    
 Ashby posits that if the variables of an absolute system undergo a recurring cycle of behaviour, feedback must be present <sup>2,4</sup>. He argues that variables cannot be interconnected in a way that produces oscillation without forming a circuit <sup>4</sup>.    
