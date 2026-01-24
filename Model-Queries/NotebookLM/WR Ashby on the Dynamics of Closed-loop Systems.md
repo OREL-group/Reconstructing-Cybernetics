@@ -16,7 +16,7 @@ __Feedback as a Selective Change Mechanism:__ In his theory of the ultrastable s
 
 __Feedback through the Environment:__ Ashby emphasizes that a complete dynamic system often includes the environment as a feedback link <sup>17,18</sup>. For instance, a person driving a car is part of a functional loop where their actions affect the environment (the car's position), and the environmental feedback (visual signals from the road) travels back through the driver's brain to correct the initial movement <sup>18,19</sup>.    
 
-Ultimately, Ashby views simple feedback as a subset of more complex reacting circuits 20. He notes that for a part of a system to behave with more stability than it possesses intrinsically, feedback is a necessary condition 1.     
+Ultimately, Ashby views simple feedback as a subset of more complex reacting circuits <sup>20</sup>. He notes that for a part of a system to behave with more stability than it possesses intrinsically, feedback is a necessary condition <sup>1</sup>.     
  
 <sup>1</sup> From transcription of Ashby's notebook from 1948-1949        
 (232/277) 2656 [Matrix]=0 So the latent roots of [A] will be included among those of the whole. Therefore not all elements of C can be zero. Similarly it can be proved that not all elements of B can be zero. Consequently, a non-zero feedback must...  What has been shown is (a) that if A-> D, then A's latent roots are not altered -which is obvious anyway, and (b) that if D->A, A's latent roots are still unaltered -which is by no means obvious. A's roots can be altered only if there is effective two-way interaction. Gremlin or no, there must still be feedback. Summary: If a part is to behave with more stability than it has intrinsically, then feedback is necessary.
@@ -62,4 +62,10 @@ And why homoeostasis? If we say that hemoeo--stasis is necessary for, say, the b
 
 (31 of 271) 996.....     
 * I have decided to drop the necessity for strictly two values, allowing the value on the I-surface to be anything. A step-function [figure] is a function of n variables [figure] , such that [figure] has only two numerical values* [arrow pointing above] possible/ except perhaps on the I-surface,/ and is/a/ single-valued function of its arguments. SO far this simply gives an arbitrary scattering of two number [figure] and [figure] throughout the x-space without any continuity. But this is of little use. We want the [figure]'s to be collected together, also the [figure]'s. This means there must be a boundary where they meet. So we add the further restriction that this surface must exist and be specifiable as a surface [figure] value [figure], and on the other side of it [figure]. If there are complications we may restrict ourselves to some suitably marked out region of the x-space if we don't want all of it.......
+
+
+
+
+
+<sup>20</sup> 
 
