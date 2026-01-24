@@ -102,4 +102,42 @@ Taking the Concise Oxford Dictionary + counting the verbs on pp 50,150,250,...,1
 18 Apr '50.
 Eddington's dictum that all scientific knowledge is knowledge of group structure still haunts me. Can this point of view be reconciled to the view of an organism (the scientist0 reacting as a multistable system to its environment?    
 
+<sup>16</sup> From transcription of Ashby's notebook from 1945-1947      
+Summary: Multistable system defined possibility of adaptation by parts.     
+(47 of 304) (page 2001)     
+13 Aug '45    
+After the previous classification I can make an attack, of sorts, on a problem attempted a year or so ago but abandoned. I refer to getting an estimate of the relation between number of part-functions activated + the chance of getting an adaptation without upsetting another set. A very crude start can be made by simply assuming that any line of behaviour activates P variables at random. Total variables are n. Change that a set will be stable is (p. 1869), sometimes, [figure] where m is the number concerned. Suppose Q variables are marked. On the average [figure] resets will be required to find stability giving [figure] variables activated, all drawn at random. The chance that one variable should be non-Q is [equation], so that chance that all should be non-Q is [equation]. This is usually near unity since interaction is slight. Suppose it is 0.9 and that n is [figure].    
 
+<sup>17</sup> From transcription of Ashby's notebook from 1939-1941      
+We have n equations homogenous in the n quantities da(1), da(2), ... da(p-1), 1, da(p+1), ... da(n). We form the eliminant, divide the pth column by da(p), write -1 for all a(++) and get:
+| a-1 a(12) ... a(1p) ... a(1n) | = 0 |a(23) -1 ... a(2p) ... a(2n) | | ... ... ... ... ... ... | |a(p1) a(p2) ... -da^1(p)/da(p) ... a(pn) | | ... ... ... ... ... ... | |a(n1) a(n2) ... a(np) ... -1 |       
+
+<sup>18</sup> From transcription of Ashby's notebook from 1945-1947     
+We may now show as on p. 1867, 1976 top, that partition will occur, i.e. that any given (finite) line of behaviour will leave some of the variables not activated. We can then give a modern proof of the main theorem: A line of behaviour L is not altered by any other line of behaviour M causing bounds provided the variables associated with the bounds are not activated by the line of behaviour L, (in a multistable system, of course!) (See p. 2006 for one bound)      
+Proof: Write the set of variables activated by L and M as [figure] and [figure] respectively, and write the bounds associated with [figure] as [figure]     
+
+<sup>19</sup> From transcription of Ashby's notebook from 1947-1948       
+10 Dec '47       
+I chain that neuronic adaptation cannot be inborn & adopted by natural selection since there are (p.2285) only 48,000 genes to control 10,000,000,000 neurones. Yet the human race is clever, as a species, & this cleverness is inborn & is due to the inborn gene-pattern. So the genes are responsible basically for a man's cleverness in adaptation. Then what do I think about genes as responsible for man's adaptation? This is probably closely related to Golla's objection that any "clever" machine will have to be designed & made clever by someone- it will not make itself- so he concludes that all machines are just slave machines. There is clearly serious confusion here, in both our minds. Obviously, in the first case, it has something to do with the idea that you cannot fix 10^10 independent para-meters indepently if you have control of only 48,000 means to control. The latter cannot carry the load. What the human race does, on my theory, is to use part of its 48,000 for reflex mechanisms, part for bodily functions so that the blood is properly oxygenated & carried to the brain, etc, & then the rest are gambolled on providing some step-functions & some part-functions, hoping that they will be able to get order out of the (almost) chaos. This is related to my machine. Obviously, if I have two units to get stable, needing.....       
+
+<sup>20</sup> From transcription of Ashby's notebook from 1944      
+p. 7. He notes that to get orderly behaviour from the brain, the latter must follow exact laws, i.e. ones which are largely immune from the random atomic movements due to heat. This implies that even the neuron details (concerned in functioning) must be large relative to atomic sizes. An obvious example is that an organism cannot develop precision of movement unless it is large enough to be practically immune to Brownian movement.      
+p. 46. Before the advent of quantum theory, the permanence of chemical molecules was merely an empirical fact. Quantum theory explains it as due to the fact that every transition is a jump, + the jump cannot occur unless the random heat movements exceed a given value characteristic for each transition. If W is the energy required for each transition.......       
+
+<sup>21</sup> From transcription of Ashby's notebook from 1947-1948      
+If we write the system near a=-4 1/2 as |-4 1/2 -3| |+3 2| the equation is 2[Figure]^2+(5-2b)[Figure]+4b=0 & the root is 1/4 (2b-5+ square root of (2b-1)(2b-25)) (176/184) 2424     
+Summary: Making one unit more stable intrinsically may make the whole system less stable or actually unstable. Worked out example. (Fuller discussion p.2454, 2458, 2463)      
+28 Feb'48 To prove that in coordination between systems in the multi stable system will tend to disappear, we may point to the parallel foot that we may be fairly sure that spinal reflexes will be adequately coordinated & integrated by inborn mechanisms simply because natural selection will long ago have (4155)eliminated types without such integration.  
+
+<sup>22</sup> From transcription of Ashby's notebook from 1939-1941   
+So the quesiton boils down roughly to extrapolation. W With the trap we try to get the mouse to extrapolate wrongly. The mouse expects one thing - and gets something else. (And extrapolation means raising some operator, or what we think is the operator, to some higher power: thus bringing in the group idea).     
+13. Feb. 1941.    
+Have recently made a psychoanalytic discovery about myself. The interesting point is that this one point has a vast number of ramifications. Apparently, while an adult can make all sorts of little decisions, the child or infant can only make the simplest decisions. Thus the adult thinks "shall I go to the pictures or theatre?" The child, howveer, has to make the deicison "shall I take an active or passive attitude to the world." Notice in the "pictures" example how much is already decided: the 'going-out,' the 'aim to be entertained,' etc.    
+
+<sup>23</sup> From transcription of Ashby's notebook from 1939-1941 
+What does the Jacobian become when we turn to an infinitesimal transformation? Suppose we change form x(i) to a point u(l), a fraction K along the line from x(i) to x^1(i) (figure)    
+Then our new (formula). If K is infinitesimal, then so is the transformation. Forming the Jacobian, e.g. 3 variables, we get (3x3 matrix). This gives (formula) where the terms in the bracket are of order K^2 or higher. This means that as K -> O, J -> 1 with no chance of getting anywhere near 0, which is where the interesting things happen. The point is that J is intended to deal with transformations which at one step change to something very different. But as almost all natural things do transform by inperceptible degrees, I presume that the Jacobian of a machine is of little importance.    
+
+<sup>24</sup> From transcription of Ashby's notebook from 1939-1941      
+22. Apr. 41.    
+Note on "breaks." Firstly, an essential part is the idea of irreversibility. Consider for instance the change in the motor car when the back axle becomes independant of the engine. This may be done by a break in the transmission or by putting the gear lever into neutral. We do not and cannot (but see p. 1038) use the word 'break' for the latter. We see that irreversibility is essential. Next the idea of suddenness is essential. Long drawn out changes where a parameter slowly alters, e.g. due to the perishing of elastic, is not ordinarily considered a break.......
