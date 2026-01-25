@@ -134,7 +134,7 @@ So the quesiton boils down roughly to extrapolation. W With the trap we try to g
 13. Feb. 1941.    
 Have recently made a psychoanalytic discovery about myself. The interesting point is that this one point has a vast number of ramifications. Apparently, while an adult can make all sorts of little decisions, the child or infant can only make the simplest decisions. Thus the adult thinks "shall I go to the pictures or theatre?" The child, howveer, has to make the deicison "shall I take an active or passive attitude to the world." Notice in the "pictures" example how much is already decided: the 'going-out,' the 'aim to be entertained,' etc.    
 
-<sup>23</sup> From transcription of Ashby's notebook from 1939-1941 
+<sup>23</sup> From transcription of Ashby's notebook from 1939-1941       
 What does the Jacobian become when we turn to an infinitesimal transformation? Suppose we change form x(i) to a point u(l), a fraction K along the line from x(i) to x^1(i) (figure)    
 Then our new (formula). If K is infinitesimal, then so is the transformation. Forming the Jacobian, e.g. 3 variables, we get (3x3 matrix). This gives (formula) where the terms in the bracket are of order K^2 or higher. This means that as K -> O, J -> 1 with no chance of getting anywhere near 0, which is where the interesting things happen. The point is that J is intended to deal with transformations which at one step change to something very different. But as almost all natural things do transform by inperceptible degrees, I presume that the Jacobian of a machine is of little importance.    
 
