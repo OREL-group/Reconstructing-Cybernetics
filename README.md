@@ -6,7 +6,7 @@ Legacy Repository [Epistemological Directory](https://github.com/Orthogonal-Rese
 ### 2025
 [A Brief History of Cybernetic Imperatives and Behavior](https://osf.io/jv96n/). _OSF Preprints_, doi:10.31234/osf.io/mnhux.
 
-[A "Good" Regulator May Provide a World Model for Intelligent Systems](https://www.researchgate.net/publication/381547888_Every_Good_Regulator_Provides_a_World_Model_for_Intelligent_Systems). _arXiv_, 2506.23032.
+[A "Good" Regulator May Provide a World Model for Intelligent Systems](https://www.researchgate.net/publication/381547888_Every_Good_Regulator_Provides_a_World_Model_for_Intelligent_Systems). _Royal Society A_, 384, 20250007. Part of the special issue on [World Models in Natural and Artificial Intelligence](https://royalsocietypublishing.org/rsta/issue/384/2320).
 
 ### 2018
 [Origins of the Embryo: Self-organization through cybernetic regulation](https://www.sciencedirect.com/science/article/abs/pii/S0303264718302065?via%3Dihub). _Biosystems_, 173, 73-82.
