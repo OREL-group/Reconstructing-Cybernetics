@@ -41,3 +41,7 @@ Legacy Repository [Epistemological Directory](https://github.com/Orthogonal-Rese
 [Bradly Alicea discusses Jesse Parent's post on Rosenbleuth et.al](https://youtu.be/eUoJZ_0dUBA)
 
 [Norbert Wiener's legacy in AI and Synchronized Oscillators](https://youtu.be/h3CtacXuZqM)
+
+[The Concept of Cybernetic Variety](https://youtu.be/WmlEzfKk5hg)
+
+[The Uses and Disuses of AI](https://youtu.be/06f5_DoXlas)
